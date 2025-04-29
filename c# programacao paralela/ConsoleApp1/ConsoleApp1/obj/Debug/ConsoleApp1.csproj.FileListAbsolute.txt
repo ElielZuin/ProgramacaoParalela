@@ -1,0 +1,7 @@
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+T:\eliel\c# programacao paralela\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
