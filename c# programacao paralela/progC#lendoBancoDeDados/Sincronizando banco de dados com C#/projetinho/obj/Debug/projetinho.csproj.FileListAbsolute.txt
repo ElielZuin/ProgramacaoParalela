@@ -1,0 +1,23 @@
+C:\Users\Usuario\source\repos\projetinho\projetinho\obj\Debug\projetinho.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\projetinho\projetinho\obj\Debug\projetinho.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\projetinho.exe.config
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\projetinho.exe
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\projetinho.pdb
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\MySql.Data.dll
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\System.Memory.dll
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Usuario\source\repos\projetinho\projetinho\bin\Debug\System.Buffers.dll
+C:\Users\Usuario\source\repos\projetinho\projetinho\obj\Debug\projetinho.csproj.CopyComplete
+C:\Users\Usuario\source\repos\projetinho\projetinho\obj\Debug\projetinho.exe
+C:\Users\Usuario\source\repos\projetinho\projetinho\obj\Debug\projetinho.pdb
+T:\Sincronizando banco de dados com C#\projetinho\bin\Debug\projetinho.exe.config
+T:\Sincronizando banco de dados com C#\projetinho\bin\Debug\projetinho.exe
+T:\Sincronizando banco de dados com C#\projetinho\bin\Debug\projetinho.pdb
+T:\Sincronizando banco de dados com C#\projetinho\bin\Debug\System.Memory.dll
+T:\Sincronizando banco de dados com C#\projetinho\bin\Debug\System.Numerics.Vectors.dll
+T:\Sincronizando banco de dados com C#\projetinho\bin\Debug\System.Buffers.dll
+T:\Sincronizando banco de dados com C#\projetinho\obj\Debug\projetinho.csproj.AssemblyReference.cache
+T:\Sincronizando banco de dados com C#\projetinho\obj\Debug\projetinho.csproj.CoreCompileInputs.cache
+T:\Sincronizando banco de dados com C#\projetinho\obj\Debug\projetinho.csproj.CopyComplete
+T:\Sincronizando banco de dados com C#\projetinho\obj\Debug\projetinho.exe
+T:\Sincronizando banco de dados com C#\projetinho\obj\Debug\projetinho.pdb
